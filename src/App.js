@@ -30,7 +30,7 @@ function App() {
               
               <Route path="/projects/:id" element= { <Project/> } />
               
-              <Route path="/email" element= {<MailMe/>}  />
+              <Route path="/email" element= { <MailMe/>}  />
 
               <Route 
                 path="*"

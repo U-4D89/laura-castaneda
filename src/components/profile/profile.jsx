@@ -14,13 +14,13 @@ const Profile = () => {
                 <div className="col">
                     <h1 className="a-title">About Me</h1>
                     <p className="a-desc">
-                        I was born in Bogotá in the 2001 and in my free times I like to play with my guinea pigs, bake carrot cakes and play just dance.
+                        Nací en Bogotá en el año 2001. En mi tiempo libre me gusta jugar con mis cuyos, hornear y jugar just dance.
                     </p>
                     <p className="a-desc">
-                        I started into programming on 2021 with   <b><a href="https://www.fundacion-s.org/" target="_blank" rel='noreferrer'>Fundacion S    </a></b> 
-                        and since I have gained experience with HTML,
-                        CSS, JavaScript, Python 3, Nodejs, Relational and No relational databases, 
-                        recently I am learning React and D3js by my own.
+                        Empecé en la programación en el 2021 con <b><a href="https://www.fundacion-s.org/" target="_blank" rel='noreferrer'>Fundacion S    </a></b> 
+                        y desde entonces he ganado experiencia con HTML, CSS
+                        CSS, JavaScript, Python 3, Nodejs, bases de datos relacionales y no relacionales,
+                        por estos días aprendo ReactJS por mi cuenta. 
                     </p>
                 </div>
             </div>
