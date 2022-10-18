@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/laura-castaneda/static/css/main.a600c7f6.css",
-    "main.js": "/laura-castaneda/static/js/main.539a509b.js",
+    "main.js": "/laura-castaneda/static/js/main.39678a62.js",
     "static/media/me.png": "/laura-castaneda/static/media/me.9f3221c134da7b012674.png",
     "static/media/projects.png": "/laura-castaneda/static/media/projects.fe87625817a647341efa.png",
     "static/media/intro.png": "/laura-castaneda/static/media/intro.4a6823092cdd253f2d1f.png",
@@ -9,10 +9,10 @@
     "index.html": "/laura-castaneda/index.html",
     "static/media/circle-arrow-right.svg": "/laura-castaneda/static/media/circle-arrow-right.0405671b4ba227cf75fb.svg",
     "main.a600c7f6.css.map": "/laura-castaneda/static/css/main.a600c7f6.css.map",
-    "main.539a509b.js.map": "/laura-castaneda/static/js/main.539a509b.js.map"
+    "main.39678a62.js.map": "/laura-castaneda/static/js/main.39678a62.js.map"
   },
   "entrypoints": [
     "static/css/main.a600c7f6.css",
-    "static/js/main.539a509b.js"
+    "static/js/main.39678a62.js"
   ]
 }
